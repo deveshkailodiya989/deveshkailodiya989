@@ -10,7 +10,7 @@
 - :credit_card: My Name is Devesh Kailodiya <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently Final year student at Indian Institute of Information Technology Lucknow
 - :books: Persuining B.Tech Major in Computer Science and Artificial Intelligence
-- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
+- :earth_asia: I'm From Dewas, India
 - :sweat_smile: I'm a Full-Stack Web Developer and Specialist at CodeForces.
 - :monocle_face: I'm interested in coding, sleeping, and watching film
 ##- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
